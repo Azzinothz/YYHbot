@@ -9,4 +9,3 @@ def onQQMessage(bot, contact, member, content):
         
         if content == "yyh run CourseStatus":
             CourseStatus().run()
-            
